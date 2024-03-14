@@ -3,6 +3,8 @@
 
 ## Overview:
 This project demonstrates the setup and configuration of Amazon S3 (Simple Storage Service) and CloudFront to host and deliver a sample "ECommerce_Website". By leveraging these AWS services together, we ensure efficient and secure hosting while enhancing performance and user experience with low latency.
+![ecommerce_website](https://github.com/RajPractiseRepo/AWS_CloudFront_ECommerce_website_/assets/148358152/b62e6b1a-153e-491f-b150-2ce767fb9a74)
+
 
 ## Requirements:
 - An AWS account
